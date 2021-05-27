@@ -1,6 +1,6 @@
 <h3>Hi, there! :D </h3>
 
-<h4>In this repository you can find some basic Javascript projects for beginners:</h4>
+<h4>In this repository you may find some basic Javascript projects for beginners:</h4>
 <br>
 
 1- Lista de Compras / Grocery List:
